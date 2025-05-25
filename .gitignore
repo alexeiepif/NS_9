@@ -1,0 +1,12 @@
+*.txt
+*.zip
+*.csv
+*.png
+*.jpg
+*.gif
+*.au
+*.wav
+*.mp3
+*.pickle
+*.h5
+*.keras
